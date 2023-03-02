@@ -1,5 +1,7 @@
 # 3D-Maze-with-Rat
 
+cpp project
+
 User may use the left, right, and center button on a mouse to control the triangle navigating through the maze.
 User may also use the keyboard arrows to control the triangle.
 
